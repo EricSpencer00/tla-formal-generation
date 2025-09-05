@@ -1,0 +1,3 @@
+{"id": "sem_001", "nl": "A semaphore counter never goes below 0.", "expected_invariant": "counter >= 0", "vars": ["counter"], "notes": "Semaphore counter non-negativity"}
+{"id": "flag_001", "nl": "A boolean flag is always either TRUE or FALSE.", "expected_invariant": "flag \\in BOOLEAN", "vars": ["flag"], "notes": "Flag boolean domain"}
+{"id": "bounded_001", "nl": "A counter never exceeds 10.", "expected_invariant": "counter <= 10", "vars": ["counter"], "notes": "Upper bound example"}
