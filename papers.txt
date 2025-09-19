@@ -1,3 +1,0 @@
-https://aclanthology.org/2025.acl-long.1310/
-https://arxiv.org/pdf/2411.15898
-https://www.sigarch.org/interactively-translating-unstructured-natural-language-to-temporal-logics-with-nl2spec/
