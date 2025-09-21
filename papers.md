@@ -9,3 +9,8 @@
 - [Specula](https://github.com/specula-org/Specula)
 
 - [Restrict tokens for better TLA+ gen](https://codeberg.org/tlaplus/tla-constrain-llm)
+
+- [Determinism in LLMs](https://arxiv.org/html/2407.10457v1)
+
+- [Satisfiability of Outputs](https://arxiv.org/pdf/2309.16436)
+* CEGIS loop = input prompt with counterexamples until the loop provides an output that has no failures
