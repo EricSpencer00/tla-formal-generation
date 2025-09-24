@@ -14,3 +14,14 @@
 
 [Satisfiability of Outputs](https://arxiv.org/pdf/2309.16436)
 * CEGIS loop = input prompt with counterexamples until the loop provides an output that has no failures
+
+[Learning to Prove Theorems via Interacting with Proof Assistants](https://arxiv.org/pdf/1905.09381)
+
+[Synthesis of TLA+ Specifications from Temporal Logic](https://arxiv.org/pdf/2103.07976)
+
+[TLA+ Model Checking with Abstraction](https://www.microsoft.com/en-us/research/publication/tla-model-checking-with-abstraction/)
+
+[Apalache: SMT-based Model Checker for TLA+](https://github.com/informalsystems/apalache)
+* Alternative to TLC that uses SMT solvers for improved scalability and bounded model checking
+
+[Teaching Formal Methods with TLA+](https://arxiv.org/pdf/1403.2617)
